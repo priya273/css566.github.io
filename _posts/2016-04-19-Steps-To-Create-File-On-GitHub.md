@@ -13,7 +13,7 @@
   
 **File Name Convention**
 -----------
-  * Make sure your file name follows "year-month-day-fileNameWhatEverYouWant.md" (for example: 2016-04-19-TableOFContent.md)
+  * Make sure your file name follows "year-month-day-file-name.md" (for example: 2016-04-19-Table-OF-Content.md)
   
 **Where to find syntax to format my document?**
 ----------- 
