@@ -1,6 +1,3 @@
----
-layout: post
----
 **Steps To Create and Commit a New file to Repository**
 =======
 
