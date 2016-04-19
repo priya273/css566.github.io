@@ -1,4 +1,7 @@
-**How to create a file and commit your changes to css566 repo**
+---
+layout: post
+---
+**Steps To Create and Commit a New file to Repository**
 =======
 
 **Where to upload my file?**
