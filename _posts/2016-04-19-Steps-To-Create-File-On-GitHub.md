@@ -9,7 +9,8 @@ layout: post
   * Navigate to css566 [repository] (https://github.com/css566/css566.github.io)
   * Look for the folder _posts and click on it.
   * Click **New File** and update the file name 
-  * Make sure you are on edit new file tab to add content to the file
+  * Make sure you are on edit new file tab 
+  * Before you add content to the file, add the following syntax: (Needs a snapshot)
   * Click **Preview** to review your content
   * At the bottom of the page, add a short description before you commit your changes 
   * Click **Commit new file**
